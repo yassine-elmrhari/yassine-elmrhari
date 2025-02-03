@@ -11,7 +11,7 @@ Feel free to explore my projects and connect with me! </p>
 
 <h2>🔎 Data Science Projects:</h2>
 
-
+- <b>Python</b>
 
 <h2> 🤳 Connect with me:</h2>
 
