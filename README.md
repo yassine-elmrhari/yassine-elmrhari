@@ -8,3 +8,12 @@ Feel free to explore my projects and connect with me! </p>
 
 - <b>Spark</b>
   - [Spark Flight Analysis](https://github.com/yassine-elmrhari/Spark_Flight_Analysis) 
+
+
+<h2> 🤳 Connect with me:</h2>
+
+
+[<img align="left" alt="YassineElmrhari | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[linkedin]: https://www.linkedin.com/in/yassineelmrhari/
