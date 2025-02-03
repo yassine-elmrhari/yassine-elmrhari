@@ -9,6 +9,9 @@ Feel free to explore my projects and connect with me! </p>
 - <b>Spark</b>
   - [Spark Flight Analysis](https://github.com/yassine-elmrhari/Spark_Flight_Analysis) 
 
+<h2>🔎 Data Science Projects:</h2>
+
+
 
 <h2> 🤳 Connect with me:</h2>
 
