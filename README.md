@@ -14,8 +14,8 @@ Feel free to explore my projects and connect with me! </p>
 <h2>🔎 Data Science Projects :</h2>
 
 - <b>Spark</b>
- 
-- <b>Python</b>
+  - [Spark Flight Classification](https://github.com/yassine-elmrhari/Spark_Flight_Classification)
+
 
 <h2> 🤳 Connect with me :</h2>
 
