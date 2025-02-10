@@ -15,7 +15,7 @@ Feel free to explore my projects and connect with me! </p>
 
 - <b>Spark</b>
   - [Spark Flight Classification](https://github.com/yassine-elmrhari/Spark_Flight_Classification)
-
+  - [Spark Flight Regression](https://github.com/yassine-elmrhari/Spark_Flight_Regression)
 
 <h2> 🤳 Connect with me :</h2>
 
