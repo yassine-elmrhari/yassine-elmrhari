@@ -18,6 +18,7 @@
   <li><b>R</b>
     <ul>
       <li><a href="https://github.com/yassine-elmrhari/R_Food_Analysis">R Food Analysis</a></li>
+      <li><a href="https://github.com/yassine-elmrhari/R_Text_Mining">R Text Mining</a></li>
     </ul>
   </li>
 </ul>
