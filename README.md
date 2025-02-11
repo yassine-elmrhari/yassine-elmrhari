@@ -36,6 +36,9 @@
 
 <h2>🤳 Connect with me:</h2>
 
-<a href="https://www.linkedin.com/in/yassineelmrhari/" target="_blank">
-  <img alt="YassineElmrhari | LinkedIn" width="22px" src="https://www.svgrepo.com/show/110195/linkedin.svg" />
-</a>
+[<img align="left" alt="YassineELMRHARI | LinkedIn" width="22px" src="https://www.svgrepo.com/show/110195/linkedin.svg" />][linkedin]
+[<img align="left" alt="YassineELMRHARI | Instagram" width="22px" src="https://www.svgrepo.com/show/405838/hugging-face.svg" />][HuggingFace]
+
+
+[linkedin]: https://www.linkedin.com/in/yassineelmrhari/
+[HuggingFace]: https://huggingface.co/YassineEl
