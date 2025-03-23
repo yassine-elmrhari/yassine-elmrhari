@@ -32,6 +32,11 @@
       <li><a href="https://github.com/yassine-elmrhari/Spark_Flight_Regression">Spark Flight Regression</a></li>
     </ul>
   </li>
+    <li><b>Python</b>
+    <ul>
+      <li><a href="https://github.com/yassine-elmrhari/Python-Animals-Classification">Python Animals Classification with GUI</a></li>
+    </ul>
+  </li>
 </ul>
 
 <h2>🤳 Connect with me:</h2>
