@@ -32,9 +32,9 @@
       <li><a href="https://github.com/yassine-elmrhari/Spark_Flight_Regression">Spark Flight Regression</a></li>
     </ul>
   </li>
-    <li><b>Python</b>
+  <li><b>Python</b>
     <ul>
-      <li><a href="https://github.com/yassine-elmrhari/Python-Animals-Classification">Python Animals Classification with GUI</a></li>
+      <li><a href="https://github.com/yassine-elmrhari/R_Food_Analysis">R Food Analysis</a></li>
     </ul>
   </li>
 </ul>
