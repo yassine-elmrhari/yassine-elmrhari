@@ -32,9 +32,10 @@
       <li><a href="https://github.com/yassine-elmrhari/Spark_Flight_Regression">Spark Flight Regression</a></li>
     </ul>
   </li>
-  <li><b>Python</b>
+  <li><b>Python & R</b>
     <ul>
       <li><a href="https://github.com/yassine-elmrhari/Python-Animals-Classification">Python Animals Classification with GUI</a></li>
+      <li><a href="https://github.com/yassine-elmrhari/Python_R_Mail_Box_Mining">Python and R Mail Box Mining and Classification</a></li>
     </ul>
   </li>
 </ul>
